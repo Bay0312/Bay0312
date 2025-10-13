@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Bayron Vega 🤘</h1>
+<h1 align="center">Hi 🤖</h1>
 <h3 align="center">Cloud & DevOps enthusiast | React · GraphQL | Scrum | Resilient collaborator | Clean Code | Lifelong learner</h3>
 
 ###
@@ -41,15 +41,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
 </div>
-
-###
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/bayronvega" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</p>
-
 
 ###
 
